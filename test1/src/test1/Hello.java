@@ -7,6 +7,8 @@ public class Hello {
 		System.out.println("He's name is Tom.");
 		System.out.println("Her name is Jane.");
 		System.out.println("Good Morning");
+		System.out.println("yes");
+		
 	
 	}
 
